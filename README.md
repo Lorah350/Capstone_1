@@ -1,2 +1,2 @@
 # Capstone_1
-Week 4Capstone-Salesterritory analysis with SQL and Excel
+Week 4Capstone-Sales territory analysis with SQL and Excel
