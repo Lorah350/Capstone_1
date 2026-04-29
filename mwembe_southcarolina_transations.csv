@@ -1,0 +1,99 @@
+month,Category,total_transactions,avg_transaction_size
+2022-01,"Art Supplies",1,277.120000
+2022-01,"Books (General)",5,112.524000
+2022-01,Textbooks,1,791.640000
+2022-02,"Apparel and Merchandise",2,180.750000
+2022-02,"Books (General)",6,319.560000
+2022-02,Textbooks,6,784.826667
+2022-03,"Apparel and Merchandise",2,216.900000
+2022-03,"Books (General)",5,361.536000
+2022-03,"Technology & Accessories",2,5005.000000
+2022-03,Textbooks,6,510.146667
+2022-04,"Apparel and Merchandise",30,138.780667
+2022-04,"Art Supplies",29,109.891034
+2022-04,"Books (General)",7,309.268571
+2022-04,"Stationery and Supplies",102,46.017941
+2022-04,"Technology & Accessories",81,2203.898519
+2022-04,Textbooks,6,565.073333
+2022-05,"Apparel and Merchandise",2,253.050000
+2022-05,"Books (General)",2,445.680000
+2022-05,Textbooks,12,725.520000
+2022-06,"Apparel and Merchandise",17,231.858824
+2022-06,"Books (General)",4,210.510000
+2022-06,"Stationery and Supplies",2,440.000000
+2022-06,"Technology & Accessories",2,715.000000
+2022-06,Textbooks,26,699.726923
+2022-07,"Apparel and Merchandise",3,72.300000
+2022-07,"Books (General)",6,215.780000
+2022-08,"Apparel and Merchandise",2,216.900000
+2022-08,"Books (General)",6,146.240000
+2022-08,Textbooks,7,574.302857
+2022-09,"Apparel and Merchandise",2,72.300000
+2022-09,"Books (General)",5,194.824000
+2022-09,"Stationery and Supplies",4,238.900000
+2022-09,Textbooks,5,636.056000
+2022-10,"Books (General)",5,24.780000
+2022-11,"Apparel and Merchandise",2,289.200000
+2022-11,"Books (General)",9,257.853333
+2022-12,"Apparel and Merchandise",2,72.300000
+2022-12,"Books (General)",5,35.400000
+2022-12,Textbooks,4,1165.280000
+2023-01,"Books (General)",2,35.400000
+2023-01,Textbooks,2,228.300000
+2023-02,"Books (General)",4,297.120000
+2023-02,Textbooks,5,884.118000
+2023-03,"Books (General)",2,371.400000
+2023-04,"Art Supplies",2,267.000000
+2023-04,"Books (General)",8,95.535000
+2023-05,"Books (General)",2,371.400000
+2023-07,"Books (General)",6,86.080000
+2023-08,"Books (General)",9,144.273333
+2023-09,"Stationery and Supplies",2,275.000000
+2023-10,"Books (General)",10,218.256000
+2023-12,"Apparel and Merchandise",15,155.360000
+2023-12,"Art Supplies",13,73.756154
+2023-12,"Books (General)",16,114.560000
+2023-12,"Stationery and Supplies",11,40.390909
+2023-12,"Technology & Accessories",19,2320.067368
+2024-01,"Apparel and Merchandise",17,157.945882
+2024-01,"Art Supplies",14,72.827143
+2024-01,"Books (General)",14,111.720000
+2024-01,"Stationery and Supplies",12,36.701667
+2024-01,"Technology & Accessories",20,2453.598000
+2024-02,"Books (General)",2,35.400000
+2024-02,Textbooks,2,228.300000
+2024-03,"Books (General)",4,297.120000
+2024-03,Textbooks,6,879.343333
+2024-04,"Books (General)",2,371.400000
+2024-05,"Art Supplies",2,267.000000
+2024-05,"Books (General)",9,98.686667
+2024-06,"Books (General)",2,371.400000
+2024-08,"Books (General)",6,86.080000
+2024-09,"Books (General)",8,155.670000
+2024-10,"Stationery and Supplies",2,275.000000
+2024-11,"Books (General)",7,158.177143
+2025-01,"Apparel and Merchandise",19,252.444211
+2025-01,"Art Supplies",48,158.987292
+2025-01,"Books (General)",54,139.838333
+2025-01,"Stationery and Supplies",38,52.134211
+2025-01,"Technology & Accessories",47,2703.947234
+2025-02,"Apparel and Merchandise",8,264.500000
+2025-02,"Books (General)",4,482.820000
+2025-02,Textbooks,4,838.350000
+2025-03,"Books (General)",2,17.700000
+2025-03,Textbooks,16,721.010000
+2025-04,"Apparel and Merchandise",44,90.146591
+2025-04,"Art Supplies",43,137.346512
+2025-04,"Books (General)",40,146.616250
+2025-04,"Stationery and Supplies",61,49.125574
+2025-04,"Technology & Accessories",81,1270.556296
+2025-05,"Books (General)",2,17.700000
+2025-05,Textbooks,9,1018.266667
+2025-06,"Books (General)",4,256.500000
+2025-06,Textbooks,8,1072.575000
+2025-09,"Books (General)",2,594.240000
+2025-10,"Books (General)",2,106.200000
+2025-10,"Stationery and Supplies",2,330.000000
+2025-11,"Books (General)",2,35.400000
+2025-12,"Apparel and Merchandise",3,78.780000
+2025-12,"Books (General)",2,519.960000
