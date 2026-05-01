@@ -1,11 +1,16 @@
 USE sample_sales;
+-- comment Territory (South Carolina) 
+-- comment Region (South) 
+-- comment Manager (Len Jensen)
 
--- COMMENT 1. Total revenue + date range
-SELECT SUM(Sale_Amount) AS TotalRevenue, MIN(Transaction_Date) AS Start_Date,
-MAX(Transaction_Date) AS EndDate FROM store_sales
-JOIN store_locations
-ON store_sales.Store_ID = Store_locations.StoreID
-WHERE State = 'South Carolina';
+-- COMMENT 1. Total revenue + date range(South carolina)
+SELECT
+    SUM(SalesTotal) AS total_revenue,
+    MIN(Date) AS start_date,
+    MAX(Date) AS end_date
+FROM sample_sales.online_sales
+WHERE ShiptoState = 'South Carolina';
+
 
 -- comment 2. Monthly revenue breakdown
 SELECT
@@ -70,6 +75,8 @@ ORDER BY total_revenue DESC;
 -- (1) Strengthening high-performing product categories that show consistent monthly revenue.
 -- (2) Targeting marketing efforts toward states in the same region that generate strong revenue.
 -- (3) Improving conversion in lower-performing months by running seasonal promotions.
+
+-- comment Why?
 -- The data shows clear monthly revenue patterns, strong category performance in specific segments,
 -- and opportunities to grow sales by leveraging regional demand trends.
 
